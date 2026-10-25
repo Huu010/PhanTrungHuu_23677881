@@ -1,0 +1,5 @@
+1. HUONG_DAN.md: cách chạy, giải thích từng bài, điểm điều chỉnh so với mẫu.
+2. Lab06/: mã nguồn đầy đủ, assets, package.json và package-lock.json.
+3. ANH_CHUP_VA_GIAI_THICH.md: danh sách ảnh cần chụp và chú thích dự kiến.
+4. KIEM_CHUNG.md: phạm vi kiểm tra đã thực hiện và phần chưa xác minh.
+5. Thiet_ke_tham_chieu/: ảnh thiết kế do bạn cung cấp; KHÔNG phải ảnh chạy ứng dụng.

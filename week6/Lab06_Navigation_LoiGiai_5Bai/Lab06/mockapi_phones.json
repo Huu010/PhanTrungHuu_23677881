@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "name": "Điện Thoại Vsmart Joy 3 - Hàng chính hãng",
+    "price": 1790000,
+    "oldPrice": 1790000,
+    "rating": 5,
+    "reviewCount": 828,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  }
+]
